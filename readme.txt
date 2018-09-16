@@ -1,3 +1,4 @@
 Welcome!
 OK some progress.
-line added in master branch
+added line in update-readme branch
+It's sunny today.
